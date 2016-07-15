@@ -218,7 +218,7 @@ msgstr "Habilitar entrega de notas"
 
 #: ../includes/class-wcdn-settings.php:293
 msgid "Enable Receipts"
-msgstr "Habilitar recebimento"
+msgstr "Habilitar Recibos"
 
 #: ../includes/class-wcdn-settings.php:301
 msgid "Front-end Options"
@@ -353,7 +353,7 @@ msgstr "Imprimir Nota de Entrega"
 #: ../includes/class-wcdn-writepanel.php:146
 #: ../includes/class-wcdn-writepanel.php:275
 msgid "Print Receipt"
-msgstr "Imprimir Fatura"
+msgstr "Imprimir Recibo"
 
 # @ woocommerce-delivery-notes
 #: ../includes/class-wcdn-writepanel.php:237
@@ -376,7 +376,7 @@ msgstr[1] "%s notas de Entrega"
 msgid "Receipt created."
 msgid_plural "%s receipts created."
 msgstr[0] "Recibo criado"
-msgstr[1] "%s recibos creidos"
+msgstr[1] "%s recibos criados"
 
 # @ woocommerce-delivery-notes
 #: ../includes/class-wcdn-writepanel.php:245
